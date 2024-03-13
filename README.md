@@ -9,7 +9,7 @@ As a mathematician intrigued by the dynamic world of data analysis, I've eagerly
 * 🌍  I'm based in Bogotá, Colombia
 * 🧠  I'm learning Data visualization
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am really interestes in Machine Learning, so I want to learn about it and be able to direct my career towards it.
+* ⚡  I am really interested in Machine Learning, so I want to learn about it and be able to direct my career towards it.
 
 ### Skills
 
